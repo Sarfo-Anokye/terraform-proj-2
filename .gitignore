@@ -26,3 +26,6 @@
 # Operating System files
 .DS_Store
 Thumbs.db
+
+my-ssh-key-pair.pub
+my-ssh-key-pair
